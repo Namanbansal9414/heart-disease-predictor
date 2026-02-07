@@ -56,10 +56,6 @@ streamlit
 pandas
 joblib
 scikit-learn
-pandas
-numpy
-matplotlib.pyplot
-seaborn
 ```
 
 ## 🎯 Usage
